@@ -1,3 +1,2 @@
-*.js linguist-language=TypeScript+Vue
-*.css linguist-language=TypeScript+Vue
-*.html linguist-language=TypeScript+Vue
+*.ts linguist-language=TypeScript+Vue
+*.vue linguist-language=TypeScript+Vue
