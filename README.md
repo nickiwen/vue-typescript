@@ -15,6 +15,7 @@ vue create my-project-name
 
 ## 先给出参考站点：
 > vuex-class的参考：https://github.com/ktsn/vuex-class/
+
 > vue-class-component装饰器的参考：https://github.com/kaorun343/vue-property-decorator
 
 ## 改变写法部分
