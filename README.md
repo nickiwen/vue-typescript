@@ -13,6 +13,10 @@ vue create my-project-name
 
 要使用 TypeScript 开发 Vue 应用程序，我们强烈建议您使用 Visual Studio Code，它为 TypeScript 提供了极好的“开箱即用”支持。如果你正在使用单文件组件 (SFC), 可以安装提供 SFC 支持以及其他更多实用功能的 Vetur 插件。
 
+## 先给出参考站点：
+> vuex-class的参考：https://github.com/ktsn/vuex-class/
+> vue-class-component装饰器的参考：https://github.com/kaorun343/vue-property-decorator
+
 ## 改变写法部分
 下面介绍每个点的使用
 
